@@ -1,0 +1,87 @@
+/*
+ ----------------------------
+ Actions
+ ----------------------------
+ */
+.top-left {
+  border-radius: 4px;
+  left: 0;
+  padding: 5px;
+  position: absolute;
+  top: 0;
+}
+.top-right{
+    padding:5px;
+    border-radius:4px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.bottom-left{
+    padding:5px;
+    border-radius:4px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.bottom-right{
+    padding:5px;
+    border-radius:4px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.default{
+    padding:5px;
+    border-radius:4px;
+}
+.discount_div{
+    background-color:#ffffff;
+    color:blue;
+    border-color:blue;
+    cursor:pointer;
+    float: left;
+}
+.discount_div_not_logged{
+    background-color:#ffffff;
+    color:blue;
+    border-color:blue;
+    cursor:pointer;
+        float: left;
+}
+.term-condition{
+    background-color:#ffffff;
+    color:blue;
+    border-color:blue;
+    cursor:pointer;
+    float: right;
+}
+.dis-box{
+    font-size: 14px;
+}
+.term-box{
+    font-size: 14px;
+    display:none;
+}
+.efft-price{
+    font-size: 14px;
+    display:none;
+}
+.wallet-menu{
+    
+}
+.wallet_discount_message{
+ padding: 0.387em;
+margin: 0.387em 0.613em -0.387em;
+background: rgba(0, 0, 0, 0.035) none repeat scroll 0% 0%;
+border-top: 1px dotted rgba(0, 0, 0, 0.1);   
+}
+
+.wcb_info_msg{
+padding: 0.387em;
+margin: 0.387em 0.613em -0.387em;
+background: rgba(0, 0, 0, 0.035) none repeat scroll 0% 0%;
+border-top: 1px dotted rgba(0, 0, 0, 0.1);   
+}
+
+
